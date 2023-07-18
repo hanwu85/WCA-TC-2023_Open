@@ -174,6 +174,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 4f) 比賽用轉亂步驟必須要使用目前最新的官方轉亂程式來產生（可在[WCA網站](https://www.worldcubeassociation.org/regulations/scrambles/)取得）。
 - 4g) 轉亂完一顆方塊後，轉亂員必須確認方塊有被正確轉亂。如果方塊的轉亂狀態不正確，方塊必須被修正（例如：先還原方塊，再轉亂一次）。
     - 4g1) 例外：6x6x6方塊、7x7x7方塊和12面體Megaminx，修正轉亂狀態是非必要的，由WCA代表決定。
+    - 4g2) 例外：魔錶Clock，如果按鈕的狀態在桌間移動中或開蓋過程中受到影響，按鈕可以不用修正。
 
 
 ## <article-5><puzzle-defects><puzzledefects> 第5章：方塊故障
