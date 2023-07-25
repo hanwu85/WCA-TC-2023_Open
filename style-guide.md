@@ -1,18 +1,24 @@
-# Official Documents (Original English Ver.) 原始版本
+# Style Guide 格式指南
+本格式指南是翻譯時的參考標準文件，以明確翻譯時所用的字彙、標點符號等中文所使用內容。
 
-[Regulations](https://www.worldcubeassociation.org/regulations/)
-Ver. 2022-06-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations/blob/official/wca-regulations.md)
+# General Information 一般訊息
+文句前的空格...
+連結格式
 
-[Guidelines](https://www.worldcubeassociation.org/regulations/guidelines.html)
-Ver. 2022-06-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations/blob/official/wca-guidelines.md)
+# Punctuation Marks 標點符號
+| 中文 | 符號 | 英文樣式 | 備註 |
+|-|-|-|-|
+|逗號|，|-|-|
+|句號|。|-|-|
+|冒號|：|-|-|
+|逗號|、|-|-|
+|全形括號|（）|-|-|
+|半形括號|()|-|-|
+|引號|「」|""|-|
 
-# Traditional Chinese 繁體中文版本
-
-[Regulations競賽規則](https://www.worldcubeassociation.org/regulations/translations/chinese-traditional/)
-Ver. 2022-06-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-regulations.md)
-
-[Guidelines指導方針](https://www.worldcubeassociation.org/regulations/translations/chinese-traditional/guidelines.html)
-Ver. 2022-06-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-translations/blob/master/chinese-traditional/wca-guidelines.md)
+# Format 格式
+時間格式
+空格格式
 
 # Terminologies字彙:
 
