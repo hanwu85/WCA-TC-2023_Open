@@ -390,7 +390,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - A3b4) 當觀察時間到達12秒鐘時，裁判說出「12秒(12 seconds)」。
     - A3c) 在觀察階段，參賽者可以拿起方塊。
         - A3c1) 參賽者在觀察時禁止轉動方塊或是故意改變對齊狀態。處罰：判定該次還原未完成（DNF）。例外：參見 [附則 A3c2](regulations:regulation:A3c2) 和 [附則 A3c5](regulations:regulation:A3c5)。
-        - A3c2) 當蓋子拿起時，如果方塊並沒有對齊，參賽者可以使其對齊，但僅限於[規則 10f](regulations:regulation:10f)所提的界限內。
+        - A3c2) 當蓋子打開時，如果方塊並沒有對齊，參賽者可以將它對齊，但僅限於[規則 10f](regulations:regulation:10f)所提及的限度內。
         - A3c3) 參賽者可以在還沒開始解方塊前將計時器歸零。
         - A3c4) 在Square-1項目，若主辦團隊決定在方塊中放置一片物體(參見[附則 A2b1](regulations:regulation:A2b1))，參賽者可以在觀察階段內將該物體移除。
         - A3c5) 在Square-1項目，參賽者不應該被任何[規則 10f](regulations:regulation:10f)中記載的非故意轉動受罰。
