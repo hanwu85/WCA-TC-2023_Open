@@ -443,7 +443,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 ## <article-B><blindfolded><blindfoldedsolving> 附則 B：盲解
 
 - B1) 標準速解流程如同[附則 A](regulations:article:A)（速解）。相異且優先於[附則 A](regulations:article:A)的流程如下：
-    - B1a) 沒有觀察階段。（也就是還原階段和解方塊階段為同時開始）
+    - B1a) 沒有觀察階段。（也就是還原階段開始時沒有觀察階段直接開始解方塊階段）
     - B1b) 參賽者需自備眼罩。
 - B2) 開始還原：
     - B2a) 裁判將計時器和/或碼錶歸零並根據[規則 A3b1](regulations:regulation:A3b1)示意裁判已經準備等待參賽者開始還原（例如：將遮蔽住的方塊擺放到參賽者前面並說「準備好了(Ready)」，並同時豎起大拇指）。參賽者必須在雙方示意完成後的1分鐘內開始還原，否則參賽者失去此次還原機會（DNS），由裁判決定。
