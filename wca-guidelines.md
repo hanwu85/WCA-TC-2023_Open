@@ -174,7 +174,7 @@
 
 ## <article-B><blindfolded><blindfoldedsolving> 附則 B：盲解
 
-- B1+) [提醒] 參賽者禁止使用有Logo (參見[規則 3i](regulations:regulation:3l))、顆粒、記號或是其他可區分各部位特徵的方塊 (參見[規則 3k](regulations:regulation:3k))。盲解項目時應該要特別留意此事。
+- B1+) [提醒] 參賽者禁止使用有Logo (參見[規則 3i](regulations:regulation:3l))、顆粒、記號或是其他可區分各部位特徵的方塊(參見[規則 3k](regulations:regulation:3k))。盲解項目時應該要特別留意此事。
 - B1b+) [建議] 眼罩應該要在比賽使用前由WCA代表檢查過。
 - B2d+) [附加] 一般情況下，當裁判表示已經準備好後，參賽者第一次啟動計時器時，即為還原開始。(參見[規則 B2a](regulations:regulation:B2a))如果參賽者想要測試計時器，必須要在這段期間內，每一次都要（詢問且）得到裁判的同意。如果在未得到裁判同意的情況下啟動計時器並歸零，處罰：判定該次還原未完成（DNF）。
 - B2f+) [釐清] 因為解方塊階段開始時參賽者要自行打開蓋子，因此不適用還原開始前參賽者不能碰觸蓋子的處罰 (參見 [規則 B2b](regulations:regulation:B2b) 和 [規則 B2c](regulations:regulation:B2c))。
