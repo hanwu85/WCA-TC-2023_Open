@@ -201,7 +201,8 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 5b5c) 兩個以上單色塊受影響，則判定該次還原未完成(DNF)。
         - 5b5d) 一個以上多色塊受影響，則判定該次還原未完成(DNF)。
         - 5b5e) 規則[5b5c](regulations:regulation:5b5c)與[5b5d](regulations:regulation:5b5d)比[5b5a](regulations:regulation:5b5a)與[5b5b](regulations:regulation:5b5b)還要優先判定。
-
+        - 5b5f) 如果一個零件部分分離或是未完全歸位，考慮方塊當下的狀態，這個零件的最終位置將被視為一般正常情況下最接近的位置。如果最終的位置能讓方塊成功還原，則這個零件不被視為方塊故障。
+    - 5b6) 定義：一個零件是指一個或多個在正常操作下，保持結合且與其他零件沒有相對移動關係的零件。（例如：一個3x3x3方塊的中心蓋、一個金字塔Pyraminx的角塊、少一片角塊蓋的3x3x3方塊角塊、一片3x3x3方塊的角塊蓋）。
 
 ## <article-7><environment><environment> 第7章：比賽場地
 
