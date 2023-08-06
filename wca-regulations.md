@@ -211,7 +211,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - 7e) 比賽區域必須要禁菸。
 - 7f) 還原區域：
     - 7f1) 定義：
-        - 7f1a) Stackmat：Speed Stacks Stackmat計時器及相容的全尺寸墊子。計時必須使用Gen2計時器、Gen3 Pro計時器、Gen4 Pro計時器和/或Gen5 Pro計時器。
+        - 7f1a) Stackmat：Speed Stacks Stackmat計時器及相容的全尺寸墊子。計時必須使用Gen3 Pro計時器、Gen4 Pro計時器和/或Gen5 Pro計時器。
         - 7f1b) 墊子：Stackmat所使用的墊子。
         - 7f1c) 計時器：Stackmat所使用的計時器，或是一個碼錶（用於更長時間的還原）。
         - 7f1d) 桌面：Stackmat所置放的平面。墊子視為桌面的一部分。計時器不被視為桌面的一部分。
