@@ -40,11 +40,14 @@ Ver. 2022-06-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-t
 |DNS|DNS|-|
 |Puzzle|方塊|-|
 |Surface|桌面|置放Stackmat平面，以及墊子，不含計時器|
-|Timer|計時器||
+|Timer|計時器|-|
+|Score Sheet|成績單|用來記錄成績及簽名的紙張|
 |Attempt|還原|裁判問準備好沒---到---參賽者簽名認證成績|
 |Solve|解方塊|計時器啟動到停止的期間|
 |Solved State|完成狀態|-|
 |Incident|意外事件|-|
+|Extra Attempt|額外的還原機會|-|
+|Provisional Extra Attempt|暫時的額外還原機會|-|
 |Notation|轉動代號|-|
 |Speed Solving|速解|-|
 |Scramble|轉亂|-|
@@ -60,7 +63,7 @@ Ver. 2022-06-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-t
 |REMINDER|提醒|可能已被其他競賽規則／指導方針所解釋過，但值得再度重申的資訊。|
 |EXAMPLE|舉例|對規則的使用方式舉出一些例子。|
 
-# Note
+# Note註釋
 These documents are Traditional Chinese users oriented.
 
 本翻譯版本為繁體中文使用者取向
@@ -69,7 +72,7 @@ All terminologies are based on Taiwanese Traditional Chinese.
 
 所有字彙為臺灣中文使用者字彙
 
-# Contact
+# Contact聯絡方式
 |Name姓名|e-mail|GitHub帳號|備註|
 |-|-|-|-|
 |Han Wu (吳翰) |hwu@worldcubeassociation.org|@hanwu85|WRC規則委員會|
