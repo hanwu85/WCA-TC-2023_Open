@@ -3,7 +3,7 @@
 
 # General Information 一般訊息
 文句前的空格...
-連結格式
+連結格式 (on going)
 
 # Punctuation Marks 標點符號
 | 中文 | 符號 | 英文樣式 | 備註 |
@@ -17,8 +17,8 @@
 |引號|「」|""|-|
 
 # Format 格式
-時間格式
-空格格式
+時間格式 (on going)
+空格格式 (on going)
 
 # Terminologies字彙:
 
