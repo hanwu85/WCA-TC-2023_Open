@@ -46,11 +46,14 @@
 |DNS|DNS|-|
 |Puzzle|方塊|-|
 |Surface|桌面|置放Stackmat平面，以及墊子，不含計時器|
-|Timer|計時器||
+|Timer|計時器|-|
+|Score Sheet|成績單|用來記錄成績及簽名的紙張|
 |Attempt|還原|裁判問準備好沒---到---參賽者簽名認證成績|
 |Solve|解方塊|計時器啟動到停止的期間|
 |Solved State|完成狀態|-|
 |Incident|意外事件|-|
+|Extra Attempt|額外的還原機會|-|
+|Provisional Extra Attempt|暫時的額外還原機會|-|
 |Notation|轉動代號|-|
 |Speed Solving|速解|-|
 |Scramble|轉亂|-|
@@ -59,6 +62,9 @@
 |Blindfold|眼罩|-|
 |Fewest Moves Solving |最少步數解|-|
 |Cutoff Round|門檻制|-|
+|Time Limit|時間限制|-|
+|Time Limit per Attempt|單次時間限制|-|
+|Cumulative Time Limit|累積時間限制|-|
 |ADDITION|附加|對應競賽規則的附加資訊。|
 |CLARIFICATION|釐清|避免造成競賽規則解讀困擾的資訊。|
 |EXPLANATION|解釋|用來說明競賽規則意義的資訊。|
