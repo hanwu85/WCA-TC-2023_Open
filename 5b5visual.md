@@ -1,5 +1,6 @@
 # Page 1
 Regulation 5b5
+競賽規則5b5
 
 Visual Guide
 
