@@ -1,16 +1,18 @@
 # Page 1
-Regulation 5b5:競賽規則5b5
 
-Visual Guide:視覺指南
-
-WCA Regulations & Guidelines:WCA競賽規則與指導方針
-
-WCA Regulations Committee:WCA規則委員會
+|Original|Translation|
+|-|-|
+|Regulation 5b5|競賽規則5b5|
+|Visual Guide|視覺指南|
+|WCA Regulations & Guidelines|WCA競賽規則與指導方針|
+|WCA Regulations Committee|WCA規則委員會|
 
 # Page 2
-Regulation 5b5
+Regulation 5b5-規則5b5
 
 “If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply (...)”
+
+「若在解方塊階段結束後，方塊的一些零件掉出或是沒有完全歸位，則依照下面規則判定（...）」
 
 # Page 3
 Regulation 5b5f
