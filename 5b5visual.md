@@ -1,13 +1,11 @@
 # Page 1
-Regulation 5b5 
+Regulation 5b5:競賽規則5b5
 
-競賽規則5b5
+Visual Guide:視覺指南
 
-Visual Guide
+WCA Regulations & Guidelines:WCA競賽規則與指導方針
 
-WCA Regulations & Guidelines
-
-WCA Regulations Committee
+WCA Regulations Committee:WCA規則委員會
 
 # Page 2
 Regulation 5b5
