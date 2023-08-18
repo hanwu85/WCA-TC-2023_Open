@@ -8,7 +8,9 @@
 |WCA Regulations Committee|WCA規則委員會|
 
 # Page 2
-Regulation 5b5-規則5b5
+Regulation 5b5
+
+規則5b5
 
 “If some parts of the puzzle are physically detached or not fully placed at the end of the solve, the following regulations apply (...)”
 
