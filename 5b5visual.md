@@ -44,9 +44,11 @@ Considerations
 
 • Once the final position has been determined, that position and orientation needs to be judged in order to know if the puzzle is either solved or not.
 
-• 
+• 當決定最終位置後，需要判斷該零件的位置與方向來決定整顆方塊是否解完成。
 
 • Some particular cases may need to be judged by a Delegate (just like a close +2 misalignment).
+
+• 
 
 # Page 5
 Examples
