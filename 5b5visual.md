@@ -171,13 +171,19 @@ Now: DNF.
 
 Difficult edge case. The blue center piece at the left seems to be taking the space of the yellow center piece (which is now far from its correct place).
 
-很難判斷的極端狀況。在左方的藍色中心塊看起來佔據了黃色中心塊的位置（所以現在離正確位置很遠）。
+很難判斷的極端狀況。在左方的藍色中心塊看起來佔據了黃色中心塊的位置（所以離藍色中心塊的正確位置很遠）。
 
 Considering that the yellow one is now partially detached, the closest valid spot for it is in the blue face. This leads to a final state with two unsolved pieces.
 
+考慮黃色中心塊是部分分離狀態，離他最近的有效位置是在藍色面。這使得最終狀態有兩個未完成的零件。
+
 Fully attached
 
+完全沒有分離
+
 Partially attached
+
+部分分離
 
 # Page 12
 Example 7
@@ -192,9 +198,9 @@ Now: +2.
 
 現在：+2秒。
 
-Several pieces affected, but all of them are closer to their correct place.
+Several pieces affected, but all of them are closer to their correct place. The puzzle is solved with a misalignment penalty.
 
-The puzzle is solved with a misalignment penalty.
+好幾個零件受到影響，但它們都接近正確的位置。這個方塊被視為完成外加未對齊的判罰。
 
 # Page 13
 Example 8
@@ -209,9 +215,9 @@ Now: Solved.
 
 現在：完成。
 
-Despite the piece may be closer to the red square’s position, the affected piece does not normally fit in such position (the mechanism does not allow it). 
+Despite the piece may be closer to the red square’s position, the affected piece does not normally fit in such position (the mechanism does not allow it). Therefore, the closest valid position is the correct one.
 
-Therefore, the closest valid position is the correct one.
+雖然受影響的零件離紅色方塊位置比較近，但該零件無法適用在該位置（內部機構不允許）。所以，最接近的位置是正確的位置。
 
 # Page 14
 Example 9
@@ -228,6 +234,8 @@ Now: DNF.
 
 This case is still DNF as per Regulation 5b5d, because of the missing red-green edge piece.
 
+這個案例還是依照規則5b5d視為DNF，因為紅綠邊塊不在上面的。
+
 # Page 15
 Example 10
 
@@ -241,20 +249,24 @@ Now: DNF.
 
 現在：DNF。
 
-As opposed to Example 1, the “twisted” position is valid in terms of mechanism. 
+As opposed to Example 1, the “twisted” position is valid in terms of mechanism. For this reason, the closest valid position does not render the piece solved.
 
-For this reason, the closest valid position does not render the piece solved.
+跟範例1相反，這一個「旋轉」在機構上是有效的。基於這個理由，最接近的位置無法讓方塊完成。
 
 # Page 16
 Explanation
 
 As you have seen, the 4x4 is considered solved, but the 3x3 is not. But why?
 
-The reason is simple: Remove one edge piece from a 4x4 puzzle (i.e. one of the orange-blue edge pieces). 
+如您所建的，4x4方塊被視為完成，但3x3方塊並沒有被視為完成。為什麼？
 
-Now try to put it back in the puzzle, but upside down. As you can see, the mechanism does not allow that. It is not a valid position to consider.
+The reason is simple: Remove one edge piece from a 4x4 puzzle (i.e. one of the orange-blue edge pieces). Now try to put it back in the puzzle, but upside down. As you can see, the mechanism does not allow that. It is not a valid position to consider.
+
+理由很簡單：先移除一個4x4方塊的邊塊（例如其中一個橘藍邊塊）。然後試著裝回去，但顛倒試試看。如您所見，機構不允許這樣做。所以不被視為有效的位置。
 
 Try the same experiment, but with a 3x3 edge piece. You will get an impossible state, but the piece fits in such position. As it is a valid position, it may be the final one (and the result, given the orientation, is an unsolved puzzle; DNF).
+
+用同一個方法，但這次用3x3方塊的邊塊。你會得到一個不可能完成的方塊，但是該邊塊可以擺在這個位置。由於這是有效的位置，所以可以視為最終位置（結果而言，由於方向不對，被視為沒有完成：DNF）。
 
 # Page 17
 Revisions
