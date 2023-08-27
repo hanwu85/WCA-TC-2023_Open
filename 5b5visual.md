@@ -48,7 +48,7 @@ Considerations
 
 • Some particular cases may need to be judged by a Delegate (just like a close +2 misalignment).
 
-• 
+• 某些較特殊的案例可能需要由WCA代表來判斷。（和很接近+2的未對齊類似）
 
 # Page 5
 Examples
@@ -57,7 +57,11 @@ Examples
 
 Remember: The final position of the piece is the closest position in which it would normally fit within the puzzle mechanism, considering the current state of the puzzle. 
 
+請記得： 考慮方塊當下的狀態，這個零件的最終位置將被視為一般正常情況下最接近的位置。
+
 In other words: A position is valid if it is possible to operate (not necessarily solve) the puzzle without issues, when the piece is placed in such position.
+
+也就是說：當這個零件被放入剛位置時，方塊（不論是否解完成）能夠正常運作，則該位置有效。
 
 # Page 6
 Example 1
@@ -65,11 +69,20 @@ Example 1
 範例1
 
 Past: DNF.
+
 Now: Solved.
+
+過去：DNF。
+
+現在：完成。
 
 The only place where the piece would normally fit, is the place where the piece is solved.
 
+一般正常情況下該零件唯一的位置，被視為該零件能夠被歸位的位置。
+
 A 4x4 mechanism does not allow the wing to be twisted on its spot, so that is not a valid position to consider.
+
+4x4方塊的機構不允許邊塊在原位旋轉，所以這種狀況不需要考慮。
 
 # Page 7
 Example 2 
@@ -77,11 +90,20 @@ Example 2
 範例2
 
 Past: DNF. 
+
 Now: Solved. 
 
-Given the definition of “piece” in  Regulation 5b6, here we have 3  pieces partially detached. 
+過去：DNF。
 
-However, all of them are closer to  their solved place. Therefore, no  pieces are considered to be  affected. 
+現在：完成。
+
+Given the definition of “piece” in Regulation 5b6, here we have 3 pieces partially detached. 
+
+依照規則5b6所定義的「零件」，這裡有三個零件受到影響。
+
+However, all of them are closer to their solved place. Therefore, no pieces are considered to be affected. 
+
+但是所有零件都很靠近他們的完成位置。所以沒有零件被視為受到影響。
 
 # Page 8
 Example 3 
@@ -89,9 +111,16 @@ Example 3
 範例3
 
 Past: DNF. 
+
 Now: Delegate discretion.
 
+過去：DNF。
+
+現在：由WCA代表決定。
+
 The closest valid position is either the solved state, or the “corner twist” state. The Delegate should carefully evaluate which state is the closest to the current one.
+
+最接近的狀態有可能是完成狀態或者是轉角狀態。WCA代表應該要仔細評估哪一種狀態才是較接近的狀態。
 
 # Page 9
 Example 4
@@ -99,11 +128,16 @@ Example 4
 範例4
 
 Past: DNF.
+
 Now: Solved.
 
-The only valid place available for the corner is the correct one. 
+過去：DNF。
 
-The orientation of the piece seems to be closer to the solved orientation.
+現在：完成。
+
+The only valid place available for the corner is the correct one. The orientation of the piece seems to be closer to the solved orientation.
+
+角塊唯一能夠存在的位置只有正確的那一個位置。該零件的方向看起來與完成時的方向較接近。
 
 # Page 10
 Example 5
@@ -111,9 +145,16 @@ Example 5
 範例5
 
 Past: DNF.
+
 Now: DNF.
 
+過去：DNF。
+
+現在：DNF。
+
 The only valid place available for the corner is the correct one. However, the orientation of the piece does not render the piece solved in any case.
+
+角塊唯一能夠存在的位置只有正確的那一個位置。但是該零件的方向無法讓該零件在任何情況下完成。
 
 # Page 11
 Example 6
@@ -121,11 +162,22 @@ Example 6
 範例6
 
 Past: DNF.
+
 Now: DNF.
+
+過去：DNF。
+
+現在：DNF。
 
 Difficult edge case. The blue center piece at the left seems to be taking the space of the yellow center piece (which is now far from its correct place).
 
+很難判斷的極端狀況。在左方的藍色中心塊看起來佔據了黃色中心塊的位置（所以現在離正確位置很遠）。
+
 Considering that the yellow one is now partially detached, the closest valid spot for it is in the blue face. This leads to a final state with two unsolved pieces.
+
+Fully attached
+
+Partially attached
 
 # Page 12
 Example 7
@@ -133,7 +185,12 @@ Example 7
 範例7
 
 Past: DNF.
+
 Now: +2.
+
+過去：DNF。
+
+現在：+2秒。
 
 Several pieces affected, but all of them are closer to their correct place.
 
@@ -145,7 +202,12 @@ Example 8
 範例8
 
 Past: DNF.
+
 Now: Solved.
+
+過去：DNF。
+
+現在：完成。
 
 Despite the piece may be closer to the red square’s position, the affected piece does not normally fit in such position (the mechanism does not allow it). 
 
@@ -157,7 +219,12 @@ Example 9
 範例9
 
 Past: DNF.
+
 Now: DNF.
+
+過去：DNF。
+
+現在：DNF。
 
 This case is still DNF as per Regulation 5b5d, because of the missing red-green edge piece.
 
@@ -167,7 +234,12 @@ Example 10
 範例10
 
 Past: DNF.
+
 Now: DNF.
+
+過去：DNF。
+
+現在：DNF。
 
 As opposed to Example 1, the “twisted” position is valid in terms of mechanism. 
 
